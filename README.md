@@ -1,2 +1,1 @@
-# Password-generator-
-Python internship task 3
+# Password-Generator-in-python
